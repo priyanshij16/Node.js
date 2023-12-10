@@ -1,0 +1,11 @@
+Q1  EXPLAIN HOISTING:
+ print (a)
+ var a=9
+ print(a)
+
+ans-
+   OUTPUT  >> GLOBAL EXECUTION 
+     undefined 
+     9 
+
+
